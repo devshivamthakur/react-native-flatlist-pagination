@@ -14,5 +14,9 @@
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-native": ">=0.60.0"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/devshivamthakur/react-native-flatlist-pagination.git"
+}
 }
