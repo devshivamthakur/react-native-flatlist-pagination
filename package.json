@@ -1,6 +1,6 @@
 {
   "name": "react-native-paginated-flatlist",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A paginated FlatList component for React Native.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,6 +17,11 @@
   },
   "repository": {
   "type": "git",
-  "url": "https://github.com/devshivamthakur/react-native-flatlist-pagination.git"
-}
+  "url": "git+https://github.com/devshivamthakur/react-native-flatlist-pagination.git"
+},
+"homepage": "git+https://github.com/devshivamthakur/react-native-flatlist-pagination.git#readme",
+"publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+
 }
